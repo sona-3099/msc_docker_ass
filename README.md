@@ -1,2 +1,2 @@
 
-Automatically load data into pucsdstudent database with the help of docker.
+Build image with loaded mysql schema...!
